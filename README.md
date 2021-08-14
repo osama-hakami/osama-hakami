@@ -10,7 +10,7 @@
 
 - A Simple Developer 😁
 - I Love Program and playing games So Mush 🤙
--<h2> my main <a href="https://discord.gg/jAa5hrbk3c",color:#CA2929;>project</a></h2>
+-<h2> my main <a href="https://discord.gg/jAa5hrbk3c>project</a></h2>
 
 <h1 id="skills" align="center">MY Languages And Library's🎓</h1> 
 
