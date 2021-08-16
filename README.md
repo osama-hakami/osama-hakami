@@ -7,6 +7,8 @@
 </div>
 <h1 align="center"> About Me🤔 ?</h1> 
 <h3>My Name is osama othman,i'am from Saudi Arabia. </h3>
+<h2>to donation me <a href="https://www.paypal.me/osama2900">paypal</a></h2>
+
 
 - A Simple Developer 😁
 - I Love Program and playing games So Mush 🤙
