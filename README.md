@@ -1,4 +1,4 @@
-<h2 align="center">Hi I'm osama othmam</h2>
+<h2 align="center">Hi I'm osama</h2>
 
   <img align="center" src="https://discord.c99.nl/widget/theme-2/677617214668537877.png"/> 
 
