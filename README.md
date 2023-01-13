@@ -1,6 +1,6 @@
 <h2 align="center">Hi I'm osama</h2>
 
-  <img align="center" src="https://discord.c99.nl/widget/theme-2/677617214668537877.png"/> 
+  <img align="center" src="https://discord.c99.nl/widget/theme-2/.png"/> 
 
   <br/>
     <img src="https://komarev.com/ghpvc/?username=osama-hakami"/>
